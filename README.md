@@ -40,4 +40,5 @@ python app.py
 Then open:
 
 http://127.0.0.1:5000(for laptop)
+
 http://10.71.233.74:5000(for mobile)
